@@ -1,6 +1,6 @@
 <?php
 /*
- * This is the child theme for BuddyxPro theme, generated with Generate Child Theme plugin by catchthemes.
+ * This is the child theme for BuddyxPro theme.
  *
  * (Please see https://developer.wordpress.org/themes/advanced-topics/child-themes/#how-to-create-a-child-theme)
  */
